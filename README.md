@@ -1,6 +1,35 @@
 # research-papers
 
-A collection of interesting research papers that are useful for our own internal research and for the summer program.
+A collection of interesting research papers that are useful for our own internal research and for implementations made in the summer program.
+
+### Where to Find Papers?
+
+There are several really great resources for finding papers. Here is a list:
+
+  - [SSRN](https://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm)
+	- [arXiv](https://arxiv.org/)
+
+### Submitting Papers & Implementations
+
+You can clone the repository by running the following in your terminal:
+
+`git clone git@github.com:bualpha/research-papers.git`
+
+Then add a link to the paper with its name and the abstract of the paper, all formatted in the same way as the existing papers in the README.
+
+If you make any changes to the repo, please use the following acronyms to prefix your commit messages:
+
+```
+BUG: bug fix
+DEP: deprecate something, or remove a deprecated object
+DEV: development tool or utility
+DOC: documentation
+ENH: enhancement
+MAINT: maintenance commit (refactoring, typos, etc.)
+REV: revert an earlier commit
+STY: style fix (whitespace, PEP8)
+TST: addition or modification of tests
+```
 
 **List of Papers w/ Abstracts**
 
