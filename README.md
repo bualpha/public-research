@@ -7,7 +7,7 @@ A collection of interesting research papers that are useful for our own internal
 There are several really great resources for finding papers. Here is a list:
 
   - [SSRN](https://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm)
-	- [arXiv](https://arxiv.org/)
+  - [arXiv](https://arxiv.org/)
 
 ### Submitting Papers & Implementations
 
