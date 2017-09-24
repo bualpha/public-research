@@ -2,20 +2,20 @@
 
 A collection of interesting research papers that are useful for our own internal research and for implementations made in the summer program.
 
-### Where to Find Papers?
+## Where to Find Papers?
 
-There are several really great resources for finding papers. Here is a list:
+There are several really great resources for finding papers:
 
   - [SSRN](https://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm)
   - [arXiv](https://arxiv.org/)
 
-### Submitting Papers & Implementations
+## Submitting Papers with Implementations
 
 You can clone the repository by running the following in your terminal:
 
 `git clone git@github.com:bualpha/research-papers.git`
 
-Then add a link to the paper with its name and the abstract of the paper, all formatted in the same way as the existing papers in the README.
+Then add a link to the paper with its name and the abstract of the paper, all formatted in the same way as the existing papers in the README, along with your Jupyter Notebook and code into their respective folders.
 
 If you make any changes to the repo, please use the following acronyms to prefix your commit messages:
 
@@ -67,3 +67,6 @@ TST: addition or modification of tests
   passive. We provide such a benchmark in this article.
   ```
       
+# License
+
+[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
