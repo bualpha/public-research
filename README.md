@@ -1,13 +1,14 @@
 # research-papers
 
-A collection of interesting research papers that are useful for our own internal research and for implementations made in the summer program.
+A collection of research papers that are useful for our own internal research and for implementations made in the summer program.
 
 ## Where to Find Papers?
 
-There are several really great resources for finding papers:
+There are many resources for finding trading strategy papers, though we use mainly the following:
 
   - [SSRN](https://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm)
   - [arXiv](https://arxiv.org/)
+  - [Quantpedia](https://quantpedia.com/Screener)
 
 ## Submitting Papers with Implementations
 
@@ -44,21 +45,22 @@ TST: addition or modification of tests
   ```
   - [130-30 The New Long Only](https://www.math.nyu.edu/faculty/avellane/Lo13030.pdf)
   ```
-  One of the fastest growing areas in institutional investment manage- ment is the so-called active exten- sion or 130/30
-  class of strategies in which the short-sales constraint of a tradi- tional long-only portfolio is relaxed. Fueled both by
-  the historical success of long-short equity hedge funds and the increasing frustra- tion of portfolio managers at the
-  apparent impact of long-only constraints on perfor- mance, 130/30 products have grown to over $75 billion in assets and
+  One of the fastest growing areas in institutional investment management is the so-called active extension or 130/30
+  class of strategies in which the short-sales constraint of a traditional long-only portfolio is relaxed. Fueled both by
+  the historical success of long-short equity hedge funds and the increasing frustration of portfolio managers at the
+  apparent impact of long-only constraints on performance, 130/30 products have grown to over $75 billion in assets and
   could reach $2 trillion by 2010 (Tabb and Johnson [2007]).
   
   Despite the increasing popularity of such strategies, considerable confusion still exists among managers and investors
   regarding the appropriate risks and expected returns of 130/30 products. For example, the typical 130/30 portfolio has a
-  leverage ratio of 1.6 to 1, unlike a long-only portfolio that does not use leverage. Although leverage is typically asso-
-  ciated with higher volatility returns, the volatility and market beta of a typical 130/30 portfolio are comparable to those
-  of its long- only counterpart. Nevertheless, the added leverage of a 130/30 product suggests that the expected return should
-  be higher than its long- only counterpart, but by how much? By defi- nition, a 130/30 portfolio holds 130% of its capital in
-  long positions and 30% in short posi- tions. Thus, the 130/30 portfolio may be viewed as a long-only portfolio plus a
-  market-neutral portfolio with long and short exposures that are 30% of the long-only portfolio’s market value. The active
-  portion of a 130/30 strategy, however, is typically very different from a market- neutral portfolio so that this
+  leverage ratio of 1.6 to 1, unlike a long-only portfolio that does not use leverage. Although leverage is typically
+  associated with higher volatility returns, the volatility and market beta of a typical 130/30 portfolio are
+  comparable to those of its long-only counterpart. Nevertheless, the added leverage of a 130/30 product
+  suggests that the expected return should be higher than its long-only counterpart, but by how much? By definition,
+  a 130/30 portfolio holds 130% of its capital in long positions and 30% in short positions. Thus,
+  the 130/30 portfolio may be viewed as a long-only portfolio plus a market-neutral portfolio with long and short
+  exposures that are 30% of the long-only portfolio’s market value. The active portion of a 130/30 strategy,
+  however, is typically very different from a market- neutral portfolio so that this
   decomposition is, in fact, inappropriate.
   
   These unique characteristics suggest that existing indexes such as the S&P 500 and the Russell 1000 are inappropriate
