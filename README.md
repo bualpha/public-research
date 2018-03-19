@@ -1,6 +1,6 @@
-# research-papers
+# public-research
 
-A collection of research papers that are useful for our own internal research and for implementations made in the summer program.
+Papers we've written implementations for, as notebooks and algorithms.
 
 ## Where to Find Papers?
 
@@ -32,7 +32,7 @@ STY: style fix (whitespace, PEP8)
 TST: addition or modification of tests
 ```
 
-**List of Papers w/ Abstracts**
+**List of Implemented Papers w/ Abstracts**
 
   - [Momentum Has Its Moments](http://docentes.fe.unl.pt/~psc/MomentumMoments.pdf)
   ```
